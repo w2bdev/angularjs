@@ -1,2 +1,2 @@
 # angularjs
-Front end technology
+Front end technology, integrating useful frontend open source technology
